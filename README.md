@@ -16,12 +16,13 @@ without having to install a third-party library.
 
 
 ## Steps:  
-1- install Package Called `Simple React Snippet` & add it to Visual studio code.
-2- install react app by typing `npx create-react-app context-app`. 
-3- delete unneeded files & create components Folder -> Navbar.js Component inside it 
-4- use `imrc` snippet -> import React, {component} from 'react';
-5- use `cc` snippet -> create class component & called it Navbar 
-6- create simple template inside Navbar class 
-7- create BookList component 
+1- install Package Called `Simple React Snippet` & add it to Visual studio code.    
+2- install react app by typing `npx create-react-app context-app`.      
+3- delete unneeded files & create components Folder -> Navbar.js Component inside it.   
+4- use `imrc` snippet -> import React, {component} from 'react'.  
+5- use `cc` snippet -> create class component & called it Navbar.    
+6- create simple template inside Navbar class .   
+7- create BookList component .   
+8- add style for both components.
 
 
